@@ -4,6 +4,9 @@
 
 
 [![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-Visit-blue?logo=dataverse&logoColor=white)](https://dataverse.harvard.edu/dataverse/pawan_upadhyay)
+
 # Research Curriculum Vitae (Academic)---Pawan Upadhyay
+
+[![ORCID iD Pawan Upadhyay](https://img.shields.io/badge/ORCID-0009--0007--9077--5924-brightgreen)](https://orcid.org/0009-0007-9077-5924)
 
 This repository contains the academic research curriculum vitae of the author, documenting scholarly output, research domains, methodological expertise, and ongoing projects associated with this research program. It serves as supporting documentation for authorship, research continuity, and long-term scholarly contribution.
