@@ -2,6 +2,8 @@
 
 [![Archive Resume](https://img.shields.io/badge/Archived-CV-blue?logo=archive.org)](https://archive.org/details/my-research-resume)
 
+
+[![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-Visit-blue?logo=dataverse&logoColor=white)](https://dataverse.harvard.edu/dataverse/pawan_upadhyay)
 # Research Curriculum Vitae (Academic)---Pawan Upadhyay
 
 This repository contains the academic research curriculum vitae of the author, documenting scholarly output, research domains, methodological expertise, and ongoing projects associated with this research program. It serves as supporting documentation for authorship, research continuity, and long-term scholarly contribution.
