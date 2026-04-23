@@ -3,8 +3,6 @@
 [![Archive Resume](https://img.shields.io/badge/Archived-CV-blue?logo=archive.org)](https://archive.org/details/my-research-resume)
 
 
-[![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-Visit-blue?logo=dataverse&logoColor=white)](https://dataverse.harvard.edu/dataverse/pawan_upadhyay)
-
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cpBH8JIAAAAJ&hl=en)
 
 # Research Curriculum Vitae (Academic)---Pawan Upadhyay
